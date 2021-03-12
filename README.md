@@ -14,6 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Ruby](https://github.com/ruby/ruby)
 - [Capybara](https://github.com/teamcapybara/capybara)
+- [Cucumber](https://github.com/cucumber/cucumber)
 - [FFI](https://github.com/ffi/ffi)
 - [Selenium](https://github.com/SeleniumHQ/selenium)
 - [Webrivers](https://github.com/titusfortner/webdrivers)
