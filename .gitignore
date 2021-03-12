@@ -1,0 +1,4 @@
+features/evidences/logs/screenshots
+features/evidences/logs/*.json
+features/evidences/logs/*.html
+Gemfile.lock

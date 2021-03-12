@@ -1,0 +1,8 @@
+---
+default: -p chrome --no-source --color --format pretty --format html -o features/evidences/logs/report_test.html
+firefox: BROWSER=firefox
+chrome: BROWSER=chrome
+headless: BROWSER=headless
+json: --format json --out=features/evidences/logs/report.json
+pretty: --format pretty
+progress: --format progress
