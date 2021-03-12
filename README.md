@@ -1,28 +1,40 @@
-# desafio-abasteceai (automação web)
+<h1 align="center">desafio-abasteceai (automação web)</h1>
 
-## Como executar o projeto
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-faça um fork ou download desse projeto
 
-acesse a pasta do projeto
 
-execute os comandos a seguir
 
-### Instalar o Bundler
+## ✨ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Ruby](https://github.com/ruby/ruby)
+- [Capybara](https://github.com/teamcapybara/capybara)
+- [FFI](https://github.com/ffi/ffi)
+- [Selenium](https://github.com/SeleniumHQ/selenium)
+- [Webrivers](https://github.com/titusfortner/webdrivers)
+
+
+## 🚀 Como executar
+
+#### Instalar o Bundler
 `
 gem install bundler
 `
 
-### Instalar as dependencias do Ruby
+#### Instalar as dependencias do Ruby
 `
 bundle install
 `
 
-### Executar em localhost
+#### Executar em localhost
 `
 cucumber
 `
-ou
-`
-bundle exec cucumber
-`
+---
+
+Feito com :brain: por [Rafael Vescio](https://www.linkedin.com/in/rafael-vescio/) 
